@@ -1,10 +1,13 @@
+# Meriskill Sales Data Analysis and Insights for Strategic Decision-Making
+![image](https://github.com/Motade/Meriskill_Internship-Sales_Data_Anlaysis/assets/114887240/12b76324-b1e7-4894-8b6a-ed2232a5a4e3)
+
+
+---
 # **Project Objective**
 This project demonstrates proficiency in analyzing extensive sales data to unearth significant trends, pinpoint best-selling products, and extract crucial revenue metrics. The goal is to empower data-driven decision-making that can inform strategic optimizations for enhancing sales strategies.
 
 ## About Dataset
-**Dataset Description:**
-
-The dataset provides detailed information about sales transactions, including:
+**Dataset Description:** The dataset provides detailed information about sales transactions, including:
 
 - **Order ID**: A unique identifier for each order.
 - **Product**: The name of the product purchased.
@@ -18,6 +21,14 @@ The dataset provides detailed information about sales transactions, including:
 - **Hour**: The hour of the day when the purchase was made.
   
 *The dataset is already clean and free from any data quality issues from it source, we can move forward with the analysis phase. Let's begin our exploration to identify trends, top-selling products, and revenue metrics to inform data-driven decision-making*
+
+## Derived Measures
+The following measures have been derived using the provided formulas:
+- **Revenue**: Revenue = SUM('Sales Data'[Sales])
+- **Average revenue**: Average revenue= AVERAGE('Sales Data'[Sales])
+- **Number of product**: No of Product = DISTINCTCOUNT('Sales Data'[Product])
+- **Total quantity ordered**: Total quantity ordered = SUM('Sales Data'[Quantity Ordered])
+
 
 ## Key Findings and Recommendations
 - **Product Performance**: The Macbook Pro Laptop achieved the highest revenue among all 19 products, with a total of $8,032,500.00, outperforming AAA Batteries (4-pack), which had the lowest revenue at $92,648.14. Apple products, including iPhones and Apple AirPods headphones, are contributing significantly to the company's revenue. In general, laptops and phones are the primary revenue drivers for the company.
@@ -45,10 +56,11 @@ San Francisco's strong market dominance underscores the company's success in tha
 ## Conclusion
 
 In this project, I embarked on a data-driven journey to analyze extensive sales data, seeking insights that can inform strategic decisions to optimize sales strategies and boost revenue. I have uncovered key findings that shed light on product performance, market insights, and seasonal trends.
+
 My analysis revealed the dominance of products like the Macbook Pro Laptop and the significance of Apple products in contributing to the company's revenue. I also identified market dynamics, with San Francisco emerging as a strong revenue driver.
 
 Furthermore, I observed seasonal trends in revenue, with December recording the highest sales.
-To facilitate ongoing analysis and decision-making, I've created an interactive dashboard, which you can access [here](https://app.powerbi.com/view?r=eyJrIjoiZDJlODk2YzItZThmMy00ODAxLWE2YWUtYzI1MTA0YjVhMTI4IiwidCI6ImQyNGQ1NTJhLTUxNTktNGI5Yy04Zjc0LWExMzAwZTAwZjEzZiJ9)
+To facilitate ongoing analysis and decision-making, I've created an interactive dashboard, which you can access [here.](https://app.powerbi.com/view?r=eyJrIjoiZDJlODk2YzItZThmMy00ODAxLWE2YWUtYzI1MTA0YjVhMTI4IiwidCI6ImQyNGQ1NTJhLTUxNTktNGI5Yy04Zjc0LWExMzAwZTAwZjEzZiJ9)
 
 As I conclude this project, the insights gained from my analysis provide a strong foundation for informed decision-making, and I encourage ongoing exploration of this rich dataset to drive business success.
 
