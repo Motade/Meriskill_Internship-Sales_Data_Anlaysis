@@ -1,6 +1,4 @@
-![image](https://github.com/Motade/Meriskill_Internship-Sales_Data_Anlaysis/assets/114887240/cbcfe4b8-328a-4696-927c-8e262a5b742c)# **Project Objective**
-
-
+# **Project Objective**
 This project demonstrates proficiency in analyzing extensive sales data to unearth significant trends, pinpoint best-selling products, and extract crucial revenue metrics. The goal is to empower data-driven decision-making that can inform strategic optimizations for enhancing sales strategies.
 
 ## About Dataset
@@ -41,6 +39,22 @@ San Francisco's strong market dominance underscores the company's success in tha
 
 ![image](https://github.com/Motade/Meriskill_Internship-Sales_Data_Anlaysis/assets/114887240/3a021323-4560-4203-9a26-0e00fbe1e734)
 
+
+
+
+## Conclusion
+
+In this project, I embarked on a data-driven journey to analyze extensive sales data, seeking insights that can inform strategic decisions to optimize sales strategies and boost revenue. I have uncovered key findings that shed light on product performance, market insights, and seasonal trends.
+My analysis revealed the dominance of products like the Macbook Pro Laptop and the significance of Apple products in contributing to the company's revenue. I also identified market dynamics, with San Francisco emerging as a strong revenue driver.
+
+Furthermore, I observed seasonal trends in revenue, with December recording the highest sales.
+To facilitate ongoing analysis and decision-making, I've created an interactive dashboard, which you can access [here](https://app.powerbi.com/view?r=eyJrIjoiZDJlODk2YzItZThmMy00ODAxLWE2YWUtYzI1MTA0YjVhMTI4IiwidCI6ImQyNGQ1NTJhLTUxNTktNGI5Yy04Zjc0LWExMzAwZTAwZjEzZiJ9)
+
+As I conclude this project, the insights gained from my analysis provide a strong foundation for informed decision-making, and I encourage ongoing exploration of this rich dataset to drive business success.
+
+Yours sincerely,
+
+Motunrayo Oguntade
 
 
 
